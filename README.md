@@ -7,7 +7,8 @@
   <a href="/"><img src="https://komarev.com/ghpvc/?username=MaxwellNdegwa&label=Profile%20Views&color=orange&style=flat" alt="MaxwellNdegwa" /></a>
 </p>
 
-  <p align="center">  <imgheight="137.3px"src="https://githubreadmestats.vercel.app/apiusername=MaxwellNdegwa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FFF&icon_color=ff00a4&theme=highcontrast"> <a>href="https://github.com/MaxwellNdegwa/githubreadmestats<imgheight="137.3px"src="https://githubreadmestats.vercel.app/api/toplangs/username=MaxwellNdegwa&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=fff&icon_color=ff00a4&theme=highcontrast" /></a>
+  <p align="center">  <imgheight="137.3px"src="https://githubreadmestats.vercel.app/apiusername=MaxwellNdegwa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FFF&icon_color=ff00a4&theme=highcontrast"> 
+  <a href="https://github.com/MaxwellNdegwa/github-readme-stats"><img height="137.3px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellNdegwa&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=fff&icon_color=ff00a4&theme=highcontrast" /></a>
  </p>
 
 <!--
