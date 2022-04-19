@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/MaxwellNdegwa"><img src="https://img.shields.io/github/followers/MuchenduOnIt.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://github.com/MaxwellNdegwa"><img src="https://img.shields.io/github/followers/MaxwellNdegwa
+.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/MuchenduOnIt"><img src="https://img.shields.io/twitter/follow/MuchenduOnIt?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/muchendu-maina-a0762a1a1"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="/"><img src="https://komarev.com/ghpvc/?username=MaxwellNdegwa&label=Profile%20Views&color=orange&style=flat" alt="MuchenduOnIt" /></a>
+  <a href="/"><img src="https://komarev.com/ghpvc/?username=MaxwellNdegwa&label=Profile%20Views&color=orange&style=flat" alt="MaxwellNdegwa
+" /></a>
 </p>
 
 <p align="center">
